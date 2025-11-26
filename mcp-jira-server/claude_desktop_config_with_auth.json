@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "ssg-jira": {
+      "command": "python",
+      "args": [
+        "C:\\ssg\\claude\\mcp-jira-server\\ssg_jira_mcp_server.py"
+      ],
+      "env": {
+        "JIRA_USERNAME": "your-email@ssg.com",
+        "JIRA_API_TOKEN": "your-api-token-here"
+      }
+    }
+  }
+}

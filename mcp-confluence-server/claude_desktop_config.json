@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "confluence": {
+      "command": "node",
+      "args": ["C:\\ssg\\claude\\mcp-confluence-server\\server.js"],
+      "env": {
+        "CONFLUENCE_USERNAME": "your_username",
+        "CONFLUENCE_TOKEN": "your_api_token"
+      }
+    }
+  }
+}
